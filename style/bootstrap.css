@@ -1,0 +1,21 @@
+@media(min-width:768px){
+    .news-input{
+        width:50%
+    }
+}
+body::before{
+content:'';
+display: block;
+height: 60px;
+}
+.img{
+    height: 240px;
+    width: 900px;
+    display: flex;
+    margin: 20px auto 10px auto;
+}
+.form{
+    margin:0px 10px 5px 10px;
+    font-size: 1rem;
+    font-weight: 400;
+}
